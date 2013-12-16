@@ -1,0 +1,1 @@
+[{"id":1,"quest":"Kill 10 monsters"},{"id":2,"quest":"Collect 20 gems"}]
